@@ -1,23 +1,4 @@
-<style>
-body {
-  background-color: #121212;
-  color: #ffffff;
-  font-family: "Georgia", serif;
-  line-height: 1.6;
-}
-h1, h2, h3 {
-  color: #ffcc00;
-}
-code {
-  color: #00ffcc;
-}
-blockquote {
-  border-left: 4px solid #ffcc00;
-  padding-left: 1em;
-  color: #cccccc;
-  font-style: italic;
-}
-</style>
+
 # DreamHouse: A Fantasy Tale
 
 ## Chapter 1: The Whisper in the Wind
